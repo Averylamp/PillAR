@@ -43,3 +43,18 @@ This is our first time creating an app using Apple's ARKit. We also did a lot of
 ## What's next for PillAR
 In the future, we hope to be able to get more accurate medication information for each specific bottle (such as pill size).  We would like to improve the bottle recognition capabilities, by maybe writing our own classifiers or training a data set.  We would also like to add features like notifications to remind you of good times to take pills to keep you even healthier.
 
+
+Made by: Avery Lamp, Ryan Sullivan, Arlene Siswanto, Yasmeen Roumie
+
+
+---
+
+If you would like to see more things that I (Avery Lamp) has made, check out my:
+
+[_Devpost_](http://devpost.com/averylamp)
+
+[_Website_](http://averylamp.me)
+
+[_Youtube_](https://www.youtube.com/playlist?list=PLyC3kmCiJ2x31ZLjuB7RogEvyamrkSOo9)
+
+If you would like to get in contact with me, here is my [_resume_](http://averylamp.me/Resume.pdf)
