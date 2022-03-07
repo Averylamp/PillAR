@@ -1,11 +1,57 @@
 # PillAR
 AR Pill tracking app
 
+<p>
+  Pill AR was made with ( 
+  <a href="https://arlenesiswanto.me/">Arlene Siswanto</a>),
+  <a href="https://www.linkedin.com/in/ryan-navillus/">Ryan Sullivan</a>,
+  <a href="https://www.linkedin.com/in/yroumie/">Yasmeen Roumie</a>,
+  and submitted to PennApps XVI in Sept 2017.  For this project, we were looking to prototype a Pill centric user experience with Augmented Reality.
+</p>
+<p> A lot of the inspiration for this project from a company that I really liked at the time that came out of MIT, PillPack 💊.  They were able to successfully break into the online pharmacy industry (an extremely stagnant and difficult entrypoint), by realizing that the biggest users of pharmacies have difficulty processing the information around the X number of pills (X > 10 pills per day) they would have to take with different schedules (every day, twice a day, every other day, etc) and different instructions.  The only modern solution to this problem at the time was the PillBox.
+</p>
+<img src=https://user-images.githubusercontent.com/7774592/156968236-68c4082e-5db9-486f-b27d-d7772814ff9a.png height=150></img>
+<p>
+  What PillPack did at the time was revolutionary, yet so so simple.
+</p>
+<img src="https://user-images.githubusercontent.com/7774592/156968434-7bebb80e-590d-4f00-818f-81c898f7f791.png" height=250></img>
+<p>
+  If you order your medications through them, they'll come in packets that will tell you the time you need to take them.  Instead of trying to figure out which pills you need to take, they are all included in the pack that tells you when to take it.  It's the same drugs 💊, but different packaging 📦!  Instead of your own organized PillBox which has a frequency of 1 day it even gets more nuanced into morning, evening, and afternoon pills!  But just the packaging and the start of a new online pharmacy led PillPack to an <a href="https://techcrunch.com/2018/06/28/amazon-buys-pillpack-an-online-pharmacy-that-was-rumored-to-be-talking-to-walmart/"> Amazon acquisition of $1b 😮.</a> But what they did initially that was novel, was a seemingly small hack that improved a user's experience tremendously 📈.
+</p>
+<p>
+  Novel and powerful! but so simple ❗
+</p>
+<p>
+  We wanted to try something related in the field of medications, so we came up with PillAR.  Instead of having pre-packaged containers of all the pills you have taken, you could use Augmented Reality to ensure to get the same experience with many different pill bottles.  Every time you needed to take a pill, you could scan your bathroom pill cabinet and it would tell you what you need to take now and why (and also give you notifications to take them when you need to). 
+</p>
+<p>
+  PillAR would track what you took and ensure that you were a safe pill taker/create a running log of everything you've taken.  And with AR, logging a pill was as simple as pointing a camera at the pill bottle.
+</p>
+<p>
+  We ended up winning 2nd place at PennApps XVI 2017, which was a happy surprise! 😄
+</p>
+  
+<h2> <a href="https://devpost.com/software/travelar-g4sq6y"> See our Devpost </a> </h2>
 
-[_See Our Devpost_](https://devpost.com/software/pillar-egulwv)
+<a href="https://www.youtube.com/watch?v=EThrHxm1ga0&index=3&list=PLyC3kmCiJ2x31ZLjuB7RogEvyamrkSOo9">
+  <h2> 
+    <a href="https://www.youtube.com/watch?v=EThrHxm1ga0&index=3&list=PLyC3kmCiJ2x31ZLjuB7RogEvyamrkSOo9">
+      View the full video walkthrough of the app
+    </a>
+  </h2>
+<img alt="Youtube Video Preview" src="https://user-images.githubusercontent.com/7774592/156965734-7c3c589d-f65a-4868-b602-eddc5ff408cc.gif" width=600>
+</a>
 
+<a href="https://youtu.be/b9gjsGgpY4c?t=3182">
+  <h2> <a href="https://youtu.be/b9gjsGgpY4c?t=3182"> Our Live Demo at PennApps XVI on Stage </a> </h2>
+  <a href="https://youtu.be/b9gjsGgpY4c?t=3182">
+    <p> Please, no judgement.  There is a lot of pressure being on stage in front of hundreds of people after staying up for 36 hours </p>
+  </a>
+</a>
 
-[_See the full video here_](https://www.youtube.com/watch?v=EThrHxm1ga0&index=3&list=PLyC3kmCiJ2x31ZLjuB7RogEvyamrkSOo9)
+-----
+⬇️ Prior Readme
+-----
 
 ![alt tag](https://raw.githubusercontent.com/Averylamp/PillAR/master/Images/screen1.jpg)
 
