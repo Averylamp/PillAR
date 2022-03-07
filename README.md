@@ -3,9 +3,9 @@ AR Pill tracking app
 
 <p>
   Pill AR was made with ( 
-  <a href="https://arlenesiswanto.me/">Arlene Siswanto</a>),
+  <a href="https://arlenesiswanto.me/">Arlene Siswanto</a>,
   <a href="https://www.linkedin.com/in/ryan-navillus/">Ryan Sullivan</a>,
-  <a href="https://www.linkedin.com/in/yroumie/">Yasmeen Roumie</a>,
+  <a href="https://www.linkedin.com/in/yroumie/">Yasmeen Roumie</a>)
   and submitted to PennApps XVI in Sept 2017.  For this project, we were looking to prototype a Pill centric user experience with Augmented Reality.
 </p>
 <p> A lot of the inspiration for this project from a company that I really liked at the time that came out of MIT, PillPack 💊.  They were able to successfully break into the online pharmacy industry (an extremely stagnant and difficult entrypoint), by realizing that the biggest users of pharmacies have difficulty processing the information around the X number of pills (X > 10 pills per day) they would have to take with different schedules (every day, twice a day, every other day, etc) and different instructions.  The only modern solution to this problem at the time was the PillBox.
