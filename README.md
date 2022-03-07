@@ -2,7 +2,7 @@
 AR Pill tracking app
 
 <p>
-  Pill AR was made with ( 
+  Pill AR was made with (
   <a href="https://arlenesiswanto.me/">Arlene Siswanto</a>,
   <a href="https://www.linkedin.com/in/ryan-navillus/">Ryan Sullivan</a>,
   <a href="https://www.linkedin.com/in/yroumie/">Yasmeen Roumie</a>)
